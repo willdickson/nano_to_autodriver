@@ -1,0 +1,5 @@
+part       description                 vendor            PN                  QTY
+---------------------------------------------------------------------------------
+U1         SAM1222-15-ND              Digikey            SAM1222-15-ND        2
+U1         Arduino Nano               Gravitech          Nano                 1
+J1-J4      3-pin header right angle   Digikey            S1111EC-03-ND        4
