@@ -1,5 +1,21 @@
 part       description                 vendor            PN                  QTY
 ---------------------------------------------------------------------------------
-U1         SAM1222-15-ND              Digikey            SAM1222-15-ND        2
 U1         Arduino Nano               Gravitech          Nano                 1
-J1-J4      3-pin header right angle   Digikey            S1111EC-03-ND        4
+U1         SAM1222-15-ND              Digikey            SAM1222-15-ND        2
+J1         5x2 shrouded header        Digikey            S9169-ND             1
+J2         3x2 shrouded header        Digikey            732-5394-ND          1
+J3-J6      BNC Jack                   Digikey            A97555-ND            4 
+
+
+Ribbon cable connectors
+------------------------
+
+3x2  IDC connector   Digikey  732-5443-ND
+5x2  IDC connector   Digikey  S9306-ND
+
+
+Ribbon cable
+--------------
+
+10 conductor, 0.05" pitch Digikey AE10G-10-ND
+
