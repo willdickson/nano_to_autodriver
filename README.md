@@ -1,5 +1,5 @@
 # nano_to_autodriver
-A simple PCB for connecting the Arduino Nano to the Sparkfun Autodriver.
+A simple PCB for connecting the Arduino Nano to the Sparkfun Autodriver. [Schematic (PDF)](nano_to_autodriver.pdf)
 
 # Top View: 
 ![top_view](images/nano_to_autodriver_top.png)
